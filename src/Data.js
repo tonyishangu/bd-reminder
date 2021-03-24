@@ -1,0 +1,32 @@
+export default  [
+    {
+        id:1,
+        name:'Peter',
+        age:23,
+        image:'https://res.cloudinary.com/dvxr1zote/image/upload/v1604657820/qcvb7qroxpk1vwxwmdkw.jpg'
+    },
+    {
+        id:1,
+        name:'Tonnie',
+        age:22,
+        image:'https://res.cloudinary.com/dvxr1zote/image/upload/v1603365419/n0mxbj5r7unpo7ilcwwm.jpg'
+    },
+    {
+        id:1,
+        name:'Michelle',
+        age:22,
+        image:'https://res.cloudinary.com/dvxr1zote/image/upload/v1604400329/ostgml8bndh3gt9y8c9s.jpg'
+    },
+    {
+        id:1,
+        name:'Seif',
+        age:23,
+        image:'https://res.cloudinary.com/dvxr1zote/image/upload/v1604400385/zkjw1fph8ttdodksoeer.jpg'
+    },
+    {
+        id:1,
+        name:'Shanice',
+        age:21,
+        image:'https://res.cloudinary.com/dvxr1zote/image/upload/v1604400405/xuwosfxbyka5h734howy.webp'
+    },
+]
